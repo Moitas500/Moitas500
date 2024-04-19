@@ -8,7 +8,6 @@ const cristhian = {
   tools: [React, Redux, Node, Angular, Springboot, AWS],
 }
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moitas500&hide_progress=true)
 
 Some of my courses ⚔️:
 
@@ -19,3 +18,5 @@ Some of my courses ⚔️:
 • [Angular (Medium)](https://www.hackerrank.com/certificates/f0f99518a24a)
 
 • [Angular: from zero to expert](https://www.udemy.com/certificate/UC-569d0c60-6c9d-4f20-8270-4b4c791e8c59/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moitas500&hide_progress=true)
