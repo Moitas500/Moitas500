@@ -8,6 +8,7 @@ const cristhian = {
   tools: [React, Redux, Node, Angular, Springboot, AWS],
 }
 ```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moitas500&hide_progress=true)
 
 Some of my courses ⚔️:
 
